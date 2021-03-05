@@ -2,7 +2,7 @@ import {GoogleLogin as Login} from "react-google-login";
 import {googleId} from '../../const/OauthConfig';
 
 function responseGoogle(response: Object) {
-    console.log(response);
+    console.log(response)
 }
 
 function GoogleLogin() {
