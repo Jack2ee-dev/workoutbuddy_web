@@ -1,7 +1,9 @@
+import GoogleLogin from "../components/login/GoogleLogin";
+
 function Login() {
     return (
         <div>
-            로그인
+            <GoogleLogin />
         </div>
     )
 }
